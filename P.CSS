@@ -1,0 +1,47 @@
+div{
+    align-items: center;
+}
+.ooo{background-color: blueviolet;}
+nav ul li{
+    list-style: none;
+    display: inline-block;
+
+    margin: 0 10px 0 10px;
+}
+nav ul {
+    padding: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    background-color: antiquewhite;
+    border-radius: 10px;
+    text-align: center;
+}
+nav ul li a {
+color: blue;
+
+}
+table , th, td{
+    border: 1px soild rgb(50, 21, 21);
+    border-collapse: collapse;
+}
+table , th{
+    border: 5px soild brown;
+}
+tr{
+    background-color: bisque;
+}
+th , td{
+    padding: 5px;
+    text-align: left;
+}
+th{
+    color: rgb(155, 123, 75);
+}
+td{
+    color: rgb(66, 57, 44);
+}
+hr{
+    color: aliceblue;
+}
+div{
+    text-align: center;
+}
