@@ -1,0 +1,86 @@
+label{
+    padding: 10px;
+  margin: 10px;
+  display: block;
+}
+#t{
+    padding: 5px;
+    margin: 5px;
+}
+#k{
+    padding: 5px;
+    margin: 5px;
+}
+#date{
+    padding: 5px;
+    margin: 5px;
+}
+#arriving{
+padding:5px ;
+margin: 5px;
+}
+#deprature{
+    padding:5px ;
+    margin: 5px;
+}
+ #file{
+ padding:5px ;
+ margin: 5px;
+}
+#pp{
+    padding:5px ;
+    margin: 5px;
+}
+#service{
+    padding: 5px;
+    margin: 5px;
+}
+div{
+    padding: 5px;
+    margin: 5px;
+}
+h1 , p{
+   text-align: center;
+}
+h1::first-letter{
+    color: red;
+}
+html{
+    background-image: url("background.webp");
+}
+body{
+    padding: 10px;
+margin: 10px;
+width: 90%;
+background-color: rgba(240, 248, 255, 0.772);
+margin-left: 50px;
+}
+textarea, input, select{
+    width: 95%;
+    background-color: antiquewhite;
+}
+textarea:hover,
+textarea :focus, 
+select :hover,
+select  :focus,
+input :hover,
+input :focus {
+    background : rgb(196, 201, 209);
+}
+input[type ="submit"]:hover{
+    background-color: green;
+}
+input[type ="reset"]:hover{
+    background-color: rgb(128, 0, 0);
+}
+textarea{
+    min-height: 180px;
+}
+.VN{
+padding: 0px 400px 0px 0px;
+width: fit-content;
+padding:auto;
+}
+video{
+    height: 595px;
+}
